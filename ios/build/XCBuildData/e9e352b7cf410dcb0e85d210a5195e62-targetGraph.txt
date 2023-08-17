@@ -1,0 +1,272 @@
+Target dependency graph (59 targets)
+AppAuth in Pods, no dependencies
+FMDB in Pods, no dependencies
+FirebaseAppCheckInterop in Pods, no dependencies
+PromisesObjC in Pods, no dependencies
+GoogleUtilities in Pods, depends on:
+PromisesObjC in Pods (explicit)
+FirebaseCoreInternal in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+FirebaseCore in Pods, depends on:
+FirebaseCoreInternal in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+GTMSessionFetcher in Pods, no dependencies
+FirebaseAuth in Pods, depends on:
+FirebaseAppCheckInterop in Pods (explicit)
+FirebaseCore in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+FirebaseInstallations in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+nanopb in Pods, no dependencies
+GoogleDataTransport in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseMessaging in Pods, depends on:
+FirebaseCore in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+GoogleDataTransport in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+Firebase in Pods, depends on:
+FirebaseAuth in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseMessaging in Pods (explicit)
+FirebaseFirestore-framework in Pods, no dependencies
+FirebaseFirestore-library in Pods, no dependencies
+Flutter in Pods, no dependencies
+GTMAppAuth in Pods, depends on:
+AppAuth in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleAppMeasurement in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+GoogleUserMessagingPlatform in Pods, no dependencies
+Google-Mobile-Ads-SDK in Pods, depends on:
+GoogleAppMeasurement in Pods (explicit)
+GoogleUserMessagingPlatform in Pods (explicit)
+GoogleMaps in Pods, no dependencies
+GoogleSignIn-GoogleSignIn in Pods, depends on:
+AppAuth in Pods (implicit dependency via options '-framework AppAuth' in build setting 'OTHER_LDFLAGS')
+GTMAppAuth in Pods (implicit dependency via options '-framework GTMAppAuth' in build setting 'OTHER_LDFLAGS')
+GTMSessionFetcher in Pods (implicit dependency via options '-framework GTMSessionFetcher' in build setting 'OTHER_LDFLAGS')
+GoogleSignIn in Pods, depends on:
+AppAuth in Pods (explicit)
+GTMAppAuth in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleSignIn-GoogleSignIn in Pods (explicit)
+Reachability in Pods, no dependencies
+TOCropViewController-TOCropViewControllerBundle in Pods, no dependencies
+TOCropViewController in Pods, depends on:
+TOCropViewController-TOCropViewControllerBundle in Pods (explicit)
+Toast in Pods, no dependencies
+connectivity in Pods, depends on:
+Flutter in Pods (explicit)
+Reachability in Pods (explicit)
+firebase_core in Pods, depends on:
+Firebase in Pods (explicit)
+Flutter in Pods (explicit)
+firebase_auth in Pods, depends on:
+Firebase in Pods (explicit)
+Flutter in Pods (explicit)
+firebase_core in Pods (explicit)
+firebase_messaging in Pods, depends on:
+Firebase in Pods (explicit)
+Flutter in Pods (explicit)
+firebase_core in Pods (explicit)
+flutter_keychain in Pods, depends on:
+Flutter in Pods (explicit)
+flutter_local_notifications in Pods, depends on:
+Flutter in Pods (explicit)
+fluttertoast in Pods, depends on:
+Flutter in Pods (explicit)
+Toast in Pods (explicit)
+geocoding_ios in Pods, depends on:
+Flutter in Pods (explicit)
+geolocator_apple in Pods, depends on:
+Flutter in Pods (explicit)
+google_maps_flutter_ios in Pods, depends on:
+Flutter in Pods (explicit)
+GoogleMaps in Pods (explicit)
+google_mobile_ads-google_mobile_ads in Pods, no dependencies
+webview_flutter_wkwebview in Pods, depends on:
+Flutter in Pods (explicit)
+google_mobile_ads in Pods, depends on:
+Flutter in Pods (explicit)
+Google-Mobile-Ads-SDK in Pods (explicit)
+google_mobile_ads-google_mobile_ads in Pods (explicit)
+webview_flutter_wkwebview in Pods (explicit)
+google_sign_in_ios in Pods, depends on:
+Flutter in Pods (explicit)
+GoogleSignIn in Pods (explicit)
+image_cropper in Pods, depends on:
+Flutter in Pods (explicit)
+TOCropViewController in Pods (explicit)
+image_picker_ios in Pods, depends on:
+Flutter in Pods (explicit)
+location in Pods, depends on:
+Flutter in Pods (explicit)
+map_launcher in Pods, depends on:
+Flutter in Pods (explicit)
+package_info_plus in Pods, depends on:
+Flutter in Pods (explicit)
+path_provider_foundation in Pods, depends on:
+Flutter in Pods (explicit)
+permission_handler_apple in Pods, depends on:
+Flutter in Pods (explicit)
+sign_in_with_apple in Pods, depends on:
+Flutter in Pods (explicit)
+sqflite in Pods, depends on:
+FMDB in Pods (explicit)
+Flutter in Pods (explicit)
+url_launcher_ios in Pods, depends on:
+Flutter in Pods (explicit)
+video_compress in Pods, depends on:
+Flutter in Pods (explicit)
+video_player_avfoundation in Pods, depends on:
+Flutter in Pods (explicit)
+wakelock in Pods, depends on:
+Flutter in Pods (explicit)
+Pods-Runner in Pods, depends on:
+AppAuth in Pods (explicit)
+FMDB in Pods (explicit)
+Firebase in Pods (explicit)
+FirebaseAppCheckInterop in Pods (explicit)
+FirebaseAuth in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseCoreInternal in Pods (explicit)
+FirebaseFirestore-framework in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+FirebaseMessaging in Pods (explicit)
+Flutter in Pods (explicit)
+GTMAppAuth in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+Google-Mobile-Ads-SDK in Pods (explicit)
+GoogleAppMeasurement in Pods (explicit)
+GoogleDataTransport in Pods (explicit)
+GoogleMaps in Pods (explicit)
+GoogleSignIn in Pods (explicit)
+GoogleUserMessagingPlatform in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+Reachability in Pods (explicit)
+TOCropViewController in Pods (explicit)
+Toast in Pods (explicit)
+connectivity in Pods (explicit)
+firebase_auth in Pods (explicit)
+firebase_core in Pods (explicit)
+firebase_messaging in Pods (explicit)
+flutter_keychain in Pods (explicit)
+flutter_local_notifications in Pods (explicit)
+fluttertoast in Pods (explicit)
+geocoding_ios in Pods (explicit)
+geolocator_apple in Pods (explicit)
+google_maps_flutter_ios in Pods (explicit)
+google_mobile_ads in Pods (explicit)
+google_sign_in_ios in Pods (explicit)
+image_cropper in Pods (explicit)
+image_picker_ios in Pods (explicit)
+location in Pods (explicit)
+map_launcher in Pods (explicit)
+nanopb in Pods (explicit)
+package_info_plus in Pods (explicit)
+path_provider_foundation in Pods (explicit)
+permission_handler_apple in Pods (explicit)
+sign_in_with_apple in Pods (explicit)
+sqflite in Pods (explicit)
+url_launcher_ios in Pods (explicit)
+video_compress in Pods (explicit)
+video_player_avfoundation in Pods (explicit)
+wakelock in Pods (explicit)
+webview_flutter_wkwebview in Pods (explicit)
+Pods-RunnerTests in Pods, depends on:
+Pods-Runner in Pods (explicit)
+Runner in Runner, depends on:
+Pods-Runner in Pods (implicit dependency via file 'Pods_Runner.framework' in build phase 'Link Binary')
+AppAuth in Pods (implicit dependency via options '-framework AppAuth' in build setting 'OTHER_LDFLAGS')
+PromisesObjC in Pods (implicit dependency via options '-framework FBLPromises' in build setting 'OTHER_LDFLAGS')
+FMDB in Pods (implicit dependency via options '-framework FMDB' in build setting 'OTHER_LDFLAGS')
+FirebaseAppCheckInterop in Pods (implicit dependency via options '-framework FirebaseAppCheckInterop' in build setting 'OTHER_LDFLAGS')
+FirebaseAuth in Pods (implicit dependency via options '-framework FirebaseAuth' in build setting 'OTHER_LDFLAGS')
+FirebaseCore in Pods (implicit dependency via options '-framework FirebaseCore' in build setting 'OTHER_LDFLAGS')
+FirebaseCoreInternal in Pods (implicit dependency via options '-framework FirebaseCoreInternal' in build setting 'OTHER_LDFLAGS')
+FirebaseInstallations in Pods (implicit dependency via options '-framework FirebaseInstallations' in build setting 'OTHER_LDFLAGS')
+FirebaseMessaging in Pods (implicit dependency via options '-framework FirebaseMessaging' in build setting 'OTHER_LDFLAGS')
+GTMAppAuth in Pods (implicit dependency via options '-framework GTMAppAuth' in build setting 'OTHER_LDFLAGS')
+GTMSessionFetcher in Pods (implicit dependency via options '-framework GTMSessionFetcher' in build setting 'OTHER_LDFLAGS')
+GoogleDataTransport in Pods (implicit dependency via options '-framework GoogleDataTransport' in build setting 'OTHER_LDFLAGS')
+GoogleSignIn in Pods (implicit dependency via options '-framework GoogleSignIn' in build setting 'OTHER_LDFLAGS')
+GoogleUtilities in Pods (implicit dependency via options '-framework GoogleUtilities' in build setting 'OTHER_LDFLAGS')
+Reachability in Pods (implicit dependency via options '-framework Reachability' in build setting 'OTHER_LDFLAGS')
+TOCropViewController in Pods (implicit dependency via options '-framework TOCropViewController' in build setting 'OTHER_LDFLAGS')
+Toast in Pods (implicit dependency via options '-framework Toast' in build setting 'OTHER_LDFLAGS')
+connectivity in Pods (implicit dependency via options '-framework connectivity' in build setting 'OTHER_LDFLAGS')
+firebase_auth in Pods (implicit dependency via options '-framework firebase_auth' in build setting 'OTHER_LDFLAGS')
+firebase_core in Pods (implicit dependency via options '-framework firebase_core' in build setting 'OTHER_LDFLAGS')
+firebase_messaging in Pods (implicit dependency via options '-framework firebase_messaging' in build setting 'OTHER_LDFLAGS')
+flutter_keychain in Pods (implicit dependency via options '-framework flutter_keychain' in build setting 'OTHER_LDFLAGS')
+flutter_local_notifications in Pods (implicit dependency via options '-framework flutter_local_notifications' in build setting 'OTHER_LDFLAGS')
+fluttertoast in Pods (implicit dependency via options '-framework fluttertoast' in build setting 'OTHER_LDFLAGS')
+geocoding_ios in Pods (implicit dependency via options '-framework geocoding_ios' in build setting 'OTHER_LDFLAGS')
+geolocator_apple in Pods (implicit dependency via options '-framework geolocator_apple' in build setting 'OTHER_LDFLAGS')
+google_maps_flutter_ios in Pods (implicit dependency via options '-framework google_maps_flutter_ios' in build setting 'OTHER_LDFLAGS')
+google_mobile_ads in Pods (implicit dependency via options '-framework google_mobile_ads' in build setting 'OTHER_LDFLAGS')
+google_sign_in_ios in Pods (implicit dependency via options '-framework google_sign_in_ios' in build setting 'OTHER_LDFLAGS')
+image_cropper in Pods (implicit dependency via options '-framework image_cropper' in build setting 'OTHER_LDFLAGS')
+image_picker_ios in Pods (implicit dependency via options '-framework image_picker_ios' in build setting 'OTHER_LDFLAGS')
+location in Pods (implicit dependency via options '-framework location' in build setting 'OTHER_LDFLAGS')
+map_launcher in Pods (implicit dependency via options '-framework map_launcher' in build setting 'OTHER_LDFLAGS')
+nanopb in Pods (implicit dependency via options '-framework nanopb' in build setting 'OTHER_LDFLAGS')
+package_info_plus in Pods (implicit dependency via options '-framework package_info_plus' in build setting 'OTHER_LDFLAGS')
+path_provider_foundation in Pods (implicit dependency via options '-framework path_provider_foundation' in build setting 'OTHER_LDFLAGS')
+permission_handler_apple in Pods (implicit dependency via options '-framework permission_handler_apple' in build setting 'OTHER_LDFLAGS')
+sign_in_with_apple in Pods (implicit dependency via options '-framework sign_in_with_apple' in build setting 'OTHER_LDFLAGS')
+sqflite in Pods (implicit dependency via options '-framework sqflite' in build setting 'OTHER_LDFLAGS')
+url_launcher_ios in Pods (implicit dependency via options '-framework url_launcher_ios' in build setting 'OTHER_LDFLAGS')
+video_compress in Pods (implicit dependency via options '-framework video_compress' in build setting 'OTHER_LDFLAGS')
+video_player_avfoundation in Pods (implicit dependency via options '-framework video_player_avfoundation' in build setting 'OTHER_LDFLAGS')
+wakelock in Pods (implicit dependency via options '-framework wakelock' in build setting 'OTHER_LDFLAGS')
+webview_flutter_wkwebview in Pods (implicit dependency via options '-framework webview_flutter_wkwebview' in build setting 'OTHER_LDFLAGS')
+RunnerTests in Runner, depends on:
+Runner in Runner (explicit)
+Pods-RunnerTests in Pods (implicit dependency via file 'Pods_RunnerTests.framework' in build phase 'Link Binary')
+AppAuth in Pods (implicit dependency via options '-framework AppAuth' in build setting 'OTHER_LDFLAGS')
+PromisesObjC in Pods (implicit dependency via options '-framework FBLPromises' in build setting 'OTHER_LDFLAGS')
+FMDB in Pods (implicit dependency via options '-framework FMDB' in build setting 'OTHER_LDFLAGS')
+FirebaseAppCheckInterop in Pods (implicit dependency via options '-framework FirebaseAppCheckInterop' in build setting 'OTHER_LDFLAGS')
+FirebaseAuth in Pods (implicit dependency via options '-framework FirebaseAuth' in build setting 'OTHER_LDFLAGS')
+FirebaseCore in Pods (implicit dependency via options '-framework FirebaseCore' in build setting 'OTHER_LDFLAGS')
+FirebaseCoreInternal in Pods (implicit dependency via options '-framework FirebaseCoreInternal' in build setting 'OTHER_LDFLAGS')
+FirebaseInstallations in Pods (implicit dependency via options '-framework FirebaseInstallations' in build setting 'OTHER_LDFLAGS')
+FirebaseMessaging in Pods (implicit dependency via options '-framework FirebaseMessaging' in build setting 'OTHER_LDFLAGS')
+GTMAppAuth in Pods (implicit dependency via options '-framework GTMAppAuth' in build setting 'OTHER_LDFLAGS')
+GTMSessionFetcher in Pods (implicit dependency via options '-framework GTMSessionFetcher' in build setting 'OTHER_LDFLAGS')
+GoogleDataTransport in Pods (implicit dependency via options '-framework GoogleDataTransport' in build setting 'OTHER_LDFLAGS')
+GoogleSignIn in Pods (implicit dependency via options '-framework GoogleSignIn' in build setting 'OTHER_LDFLAGS')
+GoogleUtilities in Pods (implicit dependency via options '-framework GoogleUtilities' in build setting 'OTHER_LDFLAGS')
+Reachability in Pods (implicit dependency via options '-framework Reachability' in build setting 'OTHER_LDFLAGS')
+TOCropViewController in Pods (implicit dependency via options '-framework TOCropViewController' in build setting 'OTHER_LDFLAGS')
+Toast in Pods (implicit dependency via options '-framework Toast' in build setting 'OTHER_LDFLAGS')
+connectivity in Pods (implicit dependency via options '-framework connectivity' in build setting 'OTHER_LDFLAGS')
+flutter_keychain in Pods (implicit dependency via options '-framework flutter_keychain' in build setting 'OTHER_LDFLAGS')
+flutter_local_notifications in Pods (implicit dependency via options '-framework flutter_local_notifications' in build setting 'OTHER_LDFLAGS')
+fluttertoast in Pods (implicit dependency via options '-framework fluttertoast' in build setting 'OTHER_LDFLAGS')
+geocoding_ios in Pods (implicit dependency via options '-framework geocoding_ios' in build setting 'OTHER_LDFLAGS')
+geolocator_apple in Pods (implicit dependency via options '-framework geolocator_apple' in build setting 'OTHER_LDFLAGS')
+image_cropper in Pods (implicit dependency via options '-framework image_cropper' in build setting 'OTHER_LDFLAGS')
+image_picker_ios in Pods (implicit dependency via options '-framework image_picker_ios' in build setting 'OTHER_LDFLAGS')
+location in Pods (implicit dependency via options '-framework location' in build setting 'OTHER_LDFLAGS')
+map_launcher in Pods (implicit dependency via options '-framework map_launcher' in build setting 'OTHER_LDFLAGS')
+nanopb in Pods (implicit dependency via options '-framework nanopb' in build setting 'OTHER_LDFLAGS')
+package_info_plus in Pods (implicit dependency via options '-framework package_info_plus' in build setting 'OTHER_LDFLAGS')
+path_provider_foundation in Pods (implicit dependency via options '-framework path_provider_foundation' in build setting 'OTHER_LDFLAGS')
+sign_in_with_apple in Pods (implicit dependency via options '-framework sign_in_with_apple' in build setting 'OTHER_LDFLAGS')
+sqflite in Pods (implicit dependency via options '-framework sqflite' in build setting 'OTHER_LDFLAGS')
+url_launcher_ios in Pods (implicit dependency via options '-framework url_launcher_ios' in build setting 'OTHER_LDFLAGS')
+video_compress in Pods (implicit dependency via options '-framework video_compress' in build setting 'OTHER_LDFLAGS')
+video_player_avfoundation in Pods (implicit dependency via options '-framework video_player_avfoundation' in build setting 'OTHER_LDFLAGS')
+wakelock in Pods (implicit dependency via options '-framework wakelock' in build setting 'OTHER_LDFLAGS')
+webview_flutter_wkwebview in Pods (implicit dependency via options '-framework webview_flutter_wkwebview' in build setting 'OTHER_LDFLAGS')

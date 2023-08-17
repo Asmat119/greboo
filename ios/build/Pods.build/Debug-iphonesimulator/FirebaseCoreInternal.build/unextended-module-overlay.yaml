@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/appleone/StudioProjects/greboo/build/ios/Debug-iphonesimulator/FirebaseCoreInternal/FirebaseCoreInternal.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/appleone/StudioProjects/greboo/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/unextended-module.modulemap",
+    }]
+  }]
+}

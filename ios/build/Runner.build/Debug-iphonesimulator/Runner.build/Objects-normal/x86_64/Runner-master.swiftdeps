@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "fd8251df9bcbeb777c9c370cfe22726fa6d621700077b9a882973b49a13cbdc5"
+build_start_time: [1687801912, 715438842]
+build_end_time: [1687801931, 573374032]
+inputs:
+  "/Users/appleone/StudioProjects/greboo/ios/Runner/AppDelegate.swift": [1687113177, 454939842]

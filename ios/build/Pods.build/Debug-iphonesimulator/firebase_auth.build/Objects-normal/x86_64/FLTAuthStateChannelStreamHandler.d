@@ -1,0 +1,85 @@
+dependencies: \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/firebase_auth-4.6.3/ios/Classes/FLTAuthStateChannelStreamHandler.m \
+  /Users/appleone/StudioProjects/greboo/ios/build/Pods.build/Debug-iphonesimulator/firebase_auth.build/module.modulemap \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/Target\ Support\ Files/firebase_auth/firebase_auth-prefix.pch \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/firebase_auth-4.6.3/ios/Classes/Private/FLTAuthStateChannelStreamHandler.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/Headers/Public/Firebase/Firebase.h \
+  /Users/appleone/StudioProjects/greboo/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FirebaseAuth.h \
+  /Users/appleone/StudioProjects/greboo/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/module.modulemap \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneMultiFactorInfo.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneMultiFactorGenerator.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneMultiFactorAssertion.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneAuthProvider.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneAuthCredential.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRUserMetadata.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRUserInfo.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRUser.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTwitterAuthProvider.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIROAuthProvider.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIROAuthCredential.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorResolver.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorSession.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorInfo.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorAssertion.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactor.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGoogleAuthProvider.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGitHubAuthProvider.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGameCenterAuthProvider.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRFederatedAuthProvider.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRFacebookAuthProvider.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIREmailAuthProvider.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthUIDelegate.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthTokenResult.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthSettings.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthDataResult.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthCredential.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAdditionalUserInfo.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRActionCodeSettings.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/Target\ Support\ Files/FirebaseAuth/FirebaseAuth-umbrella.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FirebaseInstallations.h \
+  /Users/appleone/StudioProjects/greboo/ios/build/Pods.build/Debug-iphonesimulator/FirebaseInstallations.build/module.modulemap \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsAuthTokenResult.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallations.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/Target\ Support\ Files/FirebaseInstallations/FirebaseInstallations-umbrella.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Public/FirebaseMessaging/FirebaseMessaging.h \
+  /Users/appleone/StudioProjects/greboo/ios/build/Pods.build/Debug-iphonesimulator/FirebaseMessaging.build/module.modulemap \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Public/FirebaseMessaging/FIRMessagingExtensionHelper.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Public/FirebaseMessaging/FIRMessaging.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/Target\ Support\ Files/FirebaseMessaging/FirebaseMessaging-umbrella.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/firebase_auth-4.6.3/ios/Classes/Public/FLTFirebaseAuthPlugin.h \
+  /Users/appleone/StudioProjects/greboo/ios/build/Pods.build/Debug-iphonesimulator/firebase_core.build/module.modulemap \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/firebase_core-2.14.0/ios/Classes/FLTFirebasePluginRegistry.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/firebase_core-2.14.0/ios/Classes/messages.g.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/firebase_core-2.14.0/ios/Classes/FLTFirebasePlugin.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/firebase_core-2.14.0/ios/Classes/FLTFirebaseCorePlugin.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/Target\ Support\ Files/firebase_core/firebase_core-umbrella.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/firebase_auth-4.6.3/ios/Classes/Public/messages.g.h

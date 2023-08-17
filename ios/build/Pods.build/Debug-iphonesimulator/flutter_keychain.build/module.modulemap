@@ -1,0 +1,6 @@
+framework module flutter_keychain {
+  umbrella header "flutter_keychain-umbrella.h"
+
+  export *
+  module * { export * }
+}

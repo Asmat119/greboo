@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "7bae5903b7130b096593f8e59224b8a0b28f7aa032ddcd7d2434603cba3dd6ac"
+build_start_time: [1687801774, 579200029]
+build_end_time: [1687801789, 477572917]
+inputs:
+  "/Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/video_compress-3.1.2/ios/Classes/AvController.swift": [1687044096, 978885173]
+  "/Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/video_compress-3.1.2/ios/Classes/SwiftVideoCompressPlugin.swift": [1687044096, 976469755]
+  "/Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/video_compress-3.1.2/ios/Classes/Utility.swift": [1687044096, 977698802]

@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/image_cropper-4.0.1/ios/Classes/FLTImageCropperPlugin.m \
+  /Users/appleone/StudioProjects/greboo/ios/build/Pods.build/Debug-iphonesimulator/image_cropper.build/module.modulemap \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/Target\ Support\ Files/image_cropper/image_cropper-prefix.pch \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/image_cropper-4.0.1/ios/Classes/FLTImageCropperPlugin.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h \
+  /Users/appleone/StudioProjects/greboo/ios/build/Pods.build/Debug-iphonesimulator/TOCropViewController.build/module.modulemap \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropScrollView.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropOverlayView.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropToolbar.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropView.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/TOCropViewController.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Models/TOCropViewControllerTransitioning.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Models/TOCroppedImageAttributes.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Models/TOActivityCroppedImageProvider.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Constants/TOCropViewConstants.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Categories/UIImage+CropRotate.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/Target\ Support\ Files/TOCropViewController/TOCropViewController-umbrella.h

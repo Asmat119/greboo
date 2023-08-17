@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "24cb629ff1d051a65c4828d0d4bd8511fbc61d131911c5b96c8bb2819747be2e"
+build_start_time: [1687801781, 587707042]
+build_end_time: [1687801795, 657981872]
+inputs:
+  "/Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/sign_in_with_apple-4.3.0/ios/Classes/SignInWithAppleAvailablePlugin.swift": [1687044117, 445993185]
+  "/Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/sign_in_with_apple-4.3.0/ios/Classes/SignInWithAppleError.swift": [1687044117, 275723934]
+  "/Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/sign_in_with_apple-4.3.0/ios/Classes/SignInWithAppleUnavailablePlugin.swift": [1687044117, 180023193]
+  "/Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/sign_in_with_apple-4.3.0/ios/Classes/SwiftSignInWithApplePlugin.swift": [1687044117, 517665147]

@@ -1,0 +1,28 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "9e0be71b092117a6ea18d0eccf1a1461116161d4c0eb42f3105f723d915729d6"
+build_start_time: [1687801849, 108566045]
+build_end_time: [1687801867, 744418144]
+inputs:
+  ? "/Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1687537862, 395483970]
+  ? "/Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1687537862, 396664142]
+  ? "/Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : [1687537862, 397338151]
+  ? "/Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1687537862, 397684574]
+  ? "/Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1687537862, 398016214]
+  ? "/Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1687537862, 398742914]
+  ? "/Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1687537862, 395934820]
+  "/Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift": [1687537862, 395150661]
+  ? "/Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1687537862, 399080514]
+  ? "/Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1687537862, 398344278]
+  ? "/Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1687537862, 396303176]
+  ? "/Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1687537862, 396995067]

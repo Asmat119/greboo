@@ -1,0 +1,40 @@
+dependencies: \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/PermissionManager.m \
+  /Users/appleone/StudioProjects/greboo/ios/build/Pods.build/Debug-iphonesimulator/permission_handler_apple.build/module.modulemap \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/Target\ Support\ Files/permission_handler_apple/permission_handler_apple-prefix.pch \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/PermissionManager.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/appleone/Developer/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/AudioVideoPermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/PermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/PermissionHandlerEnums.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/UnknownPermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/AppTrackingTransparencyPermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/BluetoothPermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/ContactPermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/EventPermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/LocationPermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/MediaLibraryPermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/PhonePermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/PhotoPermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/SensorPermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/SpeechPermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/StoragePermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/NotificationPermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/strategies/CriticalAlertsPermissionStrategy.h \
+  /Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.1.0/ios/Classes/util/Codec.h

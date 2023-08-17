@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "3d6726c31a38def485de86421030191e4ef1c628fa1072c12a553d46e313cb78"
+build_start_time: [1687801796, 606376171]
+build_end_time: [1687801806, 435551166]
+inputs:
+  "/Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/map_launcher-2.5.0+1/ios/Classes/SwiftMapLauncherPlugin.swift": [1687044240, 865502357]

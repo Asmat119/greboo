@@ -1,0 +1,53 @@
+dependencies: \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingExtensionHelper.m \
+  /Users/appleone/StudioProjects/greboo/ios/build/Pods.build/Debug-iphonesimulator/FirebaseMessaging.build/module.modulemap \
+  /Users/appleone/StudioProjects/greboo/ios/build/Pods.build/Debug-iphonesimulator/nanopb.build/module.modulemap \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/nanopb/pb_encode.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/nanopb/pb_decode.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/nanopb/pb_common.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/nanopb/pb.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/Target\ Support\ Files/nanopb/nanopb-umbrella.h \
+  /Users/appleone/StudioProjects/greboo/ios/build/Pods.build/Debug-iphonesimulator/GoogleDataTransport.build/module.modulemap \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GoogleDataTransport.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORTransport.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREventTransformer.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREventDataObject.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREvent.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORTargets.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREndpoints.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORConsoleLogger.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORClock.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/Target\ Support\ Files/GoogleDataTransport/GoogleDataTransport-umbrella.h \
+  /Users/appleone/StudioProjects/greboo/ios/build/Pods.build/Debug-iphonesimulator/GoogleUtilities.build/module.modulemap \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/UserDefaults/Public/GoogleUtilities/GULUserDefaults.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Reachability/Public/GoogleUtilities/GULReachabilityChecker.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkURLSession.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkMessageCode.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkLoggerProtocol.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkConstants.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetwork.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULMutableDictionary.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/NSData+zlib/Public/GoogleUtilities/GULNSData+zlib.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/MethodSwizzler/Public/GoogleUtilities/GULSwizzler.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/MethodSwizzler/Public/GoogleUtilities/GULOriginalIMPConvenienceMacros.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLoggerLevel.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLogger.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/NSURLSession+GULPromises.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULURLSessionDataResponse.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULSecureCoding.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULNetworkInfo.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainUtils.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainStorage.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorageUserDefaults.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorage.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorable.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULSceneDelegateSwizzler.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULApplication.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULAppDelegateSwizzler.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/Target\ Support\ Files/GoogleUtilities/GoogleUtilities-umbrella.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingCode.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingConstants.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingLogger.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Protogen/nanopb/me.nanopb.h \
+  /Users/appleone/StudioProjects/greboo/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Public/FirebaseMessaging/FIRMessagingExtensionHelper.h

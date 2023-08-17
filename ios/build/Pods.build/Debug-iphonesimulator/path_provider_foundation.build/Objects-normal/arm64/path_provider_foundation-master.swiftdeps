@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "3270c7ebb71e483a367cdf52a385a283d998dcf64d0bfb1944b8bbd2efa579b2"
+build_start_time: [1687801792, 777096033]
+build_end_time: [1687801801, 520159006]
+inputs:
+  "/Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/path_provider_foundation-2.2.3/darwin/Classes/PathProviderPlugin.swift": [1687044143, 519506931]
+  "/Users/appleone/.pub-cache/hosted/pub.flutter-io.cn/path_provider_foundation-2.2.3/darwin/Classes/messages.g.swift": [1687044143, 259147167]
